@@ -19,6 +19,7 @@ Io.build.board=AVR_RS_IO
 
 ##############################################################
 Io-duino.name=Io:duino
+Io-duino.upload.tool=arduino:avrdude
 Io-duino.upload.protocol=arduino
 Io-duino.upload.maximum_size=126976
 Io-duino.upload.speed=57600
